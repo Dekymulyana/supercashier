@@ -37,4 +37,19 @@
    ### e. delete_item
    ### Merupakan fungsi untuk menghapus salah satu item/ barang yang sudah diinput.
    <img width="500" alt="image" src="https://user-images.githubusercontent.com/123846578/216521302-f7e3ab06-afd1-4162-b408-9fd90f072029.png">
+   
+   ### f. reset_transaction
+   ### Merupakan fungsi untuk menghapus semua item/barang yang telah diinputkan.
+   <img width="416" alt="image" src="https://user-images.githubusercontent.com/123846578/216521701-47f3205f-3c90-4542-bef8-ada58029eeeb.png">
+   
+   ### g. check_order
+   ### Merupakan fungsi untuk untuk memeriksa apakah detail item/barang yang diinputkan sudah lengkap dan benar.
+   <img width="518" alt="image" src="https://user-images.githubusercontent.com/123846578/216522035-960f17e3-03f5-451f-9826-7cae5d911ba0.png">
+   
+   ### h. total_price
+   ### Merupakan fungsi untuk menghitung total harga yang harus dibayar oleh customer. Setelah dilakukan penghitungan total harga awal (sebelum diskon), terlebih dahulu akan ditentukan apakah customer mendapatkan diskon. Jika mendapat diskon berapa diskon yang didapatkan, dan setelah itu dilakukan perhitungan total harga awal dikurangi diskon, Lalu hasil akhirnya didapatkan harga total setelah diskon
+   <img width="805" alt="image" src="https://user-images.githubusercontent.com/123846578/216522369-6ee3e5b2-db30-4632-b9bd-b48c8e5c607b.png">
+
+
+
 
