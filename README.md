@@ -16,13 +16,25 @@
 
 ## 3. PENJELASAN CODE
    ### a. __init__()
-   ### Merupakan fungsi inisialisasi untuk class Transaction
+   ### Merupakan fungsi inisialisasi untuk class Transaction.
    <img width="483" alt="image" src="https://user-images.githubusercontent.com/123846578/216519283-9800920e-9cfa-43a1-ace6-a0ae67aedea1.png">
    
    ### b. add_item
-   ### Merupakan fungsi untuk menambahkan detail item, yang terdiri dari
-   ### item_name = Nama Barang
-   ### item_qyt = Jumlah Barang
-   ### item_price = Harga Barang
+   ### Merupakan fungsi untuk menambahkan detail item, yang terdiri dari:
+   #### item_name = Nama Barang
+   #### item_qyt = Jumlah Barang
+   #### item_price = Harga Barang
    <img width="443" alt="image" src="https://user-images.githubusercontent.com/123846578/216520187-a96ba825-a6ac-4ec6-b2bd-ed256786afb6.png">
+   
+   ### c. update_item
+   ### Merupakan fungsi untuk mengupdate/ mengubah detail item yang diinputkan.
+   <img width="380" alt="image" src="https://user-images.githubusercontent.com/123846578/216520672-49f666a9-af3f-4e1c-b594-5512295ff48c.png">
+
+   ### d. show_order
+   ### Merupakan fungsi untuk menampilkan daftar pesanan yang sudah diinputkan.
+   <img width="483" alt="image" src="https://user-images.githubusercontent.com/123846578/216521035-9b5284d9-0636-4904-a4ac-d7825c36b5f9.png">
+   
+   ### e. delete_item
+   ### Merupakan fungsi untuk menghapus salah satu item/ barang yang sudah diinput.
+   <img width="500" alt="image" src="https://user-images.githubusercontent.com/123846578/216521302-f7e3ab06-afd1-4162-b408-9fd90f072029.png">
 
