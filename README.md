@@ -50,6 +50,10 @@
    ### Merupakan fungsi untuk menghitung total harga yang harus dibayar oleh customer. Setelah dilakukan penghitungan total harga awal (sebelum diskon), terlebih dahulu akan ditentukan apakah customer mendapatkan diskon. Jika mendapat diskon berapa diskon yang didapatkan, dan setelah itu dilakukan perhitungan total harga awal dikurangi diskon, Lalu hasil akhirnya didapatkan harga total setelah diskon
    <img width="805" alt="image" src="https://user-images.githubusercontent.com/123846578/216522369-6ee3e5b2-db30-4632-b9bd-b48c8e5c607b.png">
 
+## 4. HASIL TEST CASE
 
+## 5. FUTURE WORK
+   ### a. Mengembangkan fungsi untuk pemberian kupon belanja. Jadi selain diskon, customer dengan total pembelian tertentu akan mendapat kupon yang akan diundi setiap akhir tahun. Misalnya setiap kelipatan Rp.50.000,- mendapatkan satu kupon.
+   ### b. Mengembangkan fungsi untuk keuntungan "tebus murah". Jadi selain diskon, customer dengan total pembelian tertentu akan mendapat keuntungan untuk dapat membeli barang-barang tertentu dengan harga lebih murah.
 
 
