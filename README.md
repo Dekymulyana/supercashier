@@ -16,4 +16,6 @@
 
 ## 3. PENJELASAN CODE
    ### a. __init__()
-   
+   ### Merupakan fungsi inisialisasi untuk class Transaction
+   <img width="483" alt="image" src="https://user-images.githubusercontent.com/123846578/216519283-9800920e-9cfa-43a1-ace6-a0ae67aedea1.png">
+
