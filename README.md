@@ -18,4 +18,11 @@
    ### a. __init__()
    ### Merupakan fungsi inisialisasi untuk class Transaction
    <img width="483" alt="image" src="https://user-images.githubusercontent.com/123846578/216519283-9800920e-9cfa-43a1-ace6-a0ae67aedea1.png">
+   
+   ### b. add_item
+   ### Merupakan fungsi untuk menambahkan detail item, yang terdiri dari
+   ### item_name = Nama Barang
+   ### item_qyt = Jumlah Barang
+   ### item_price = Harga Barang
+   <img width="443" alt="image" src="https://user-images.githubusercontent.com/123846578/216520187-a96ba825-a6ac-4ec6-b2bd-ed256786afb6.png">
 
