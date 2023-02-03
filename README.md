@@ -14,3 +14,6 @@
 ## 2. FLOWCHART
 ![Flowchart](https://user-images.githubusercontent.com/123846578/216514621-2c134ee1-4961-4a88-a5c2-5bca5df20e91.jpeg)
 
+## 3. PENJELASAN CODE
+   ### a. __init__()
+   
