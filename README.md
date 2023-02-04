@@ -73,4 +73,8 @@
    ##### a. Mengembangkan fungsi untuk pemberian kupon belanja. Jadi selain diskon, customer dengan total pembelian tertentu akan mendapat kupon yang akan diundi setiap akhir tahun. Misalnya setiap kelipatan Rp.50.000,- mendapatkan satu kupon.
    ##### b. Mengembangkan fungsi untuk keuntungan "tebus murah". Jadi selain diskon, customer dengan total pembelian tertentu akan mendapat keuntungan untuk dapat membeli barang-barang tertentu dengan harga lebih murah.
 
+# Terima Kasih Pacmann (Mbak Zakiya, Mbak Fath, Mas Sepryan, dll)
 
+
+  ### Ayudina Larasanti 
+  ### Analytics and Data Science 
