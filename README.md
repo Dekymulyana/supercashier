@@ -51,6 +51,23 @@
    <img width="805" alt="image" src="https://user-images.githubusercontent.com/123846578/216522369-6ee3e5b2-db30-4632-b9bd-b48c8e5c607b.png">
 
 ## 4. HASIL TEST CASE
+<img width="729" alt="image" src="https://user-images.githubusercontent.com/123846578/216740481-c952f538-fddb-4172-ab49-46976efad043.png">
+
+### #TEST CASE 1
+<img width="814" alt="image" src="https://user-images.githubusercontent.com/123846578/216740430-72b4a87d-2f6e-48cb-b32f-fed614697dfc.png">
+### #TEST CASE 2
+<img width="721" alt="image" src="https://user-images.githubusercontent.com/123846578/216740537-3437e95b-ae4d-469f-8c94-224fe65931ad.png">
+### #TEST CASE 3
+<img width="680" alt="image" src="https://user-images.githubusercontent.com/123846578/216740601-7bf0fe2f-2f60-4994-9fa3-a4f1bd2a7317.png">
+### MENAMBAHKAN KEMBALI ITEM PESANAN
+<img width="798" alt="image" src="https://user-images.githubusercontent.com/123846578/216740948-ad2486e9-29e9-4d15-8d10-5fa15004d39a.png">
+### MENGUPDATE PESANAN
+<img width="828" alt="image" src="https://user-images.githubusercontent.com/123846578/216741028-acef2bb6-8c79-4043-92f9-37d608caf83b.png">
+### MEMERIKSA INPUT PESANAN
+<img width="835" alt="image" src="https://user-images.githubusercontent.com/123846578/216741085-818b72cf-b7a7-4e31-83d2-165d07de6110.png">
+
+### #TEST CASE 4
+<img width="826" alt="image" src="https://user-images.githubusercontent.com/123846578/216740739-cd9cdcdb-5151-4384-9f94-23cb36feaf1f.png">
 
 ## 5. FUTURE WORK
    ##### a. Mengembangkan fungsi untuk pemberian kupon belanja. Jadi selain diskon, customer dengan total pembelian tertentu akan mendapat kupon yang akan diundi setiap akhir tahun. Misalnya setiap kelipatan Rp.50.000,- mendapatkan satu kupon.
