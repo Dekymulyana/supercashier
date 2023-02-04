@@ -76,6 +76,3 @@
 
 ## Terima Kasih Pacmann (Mbak Zakiya, Mbak Fath, Mas Sepryan, dll)
 
-
-  ### Ayudina Larasanti 
-  ### Analytics and Data Science 
