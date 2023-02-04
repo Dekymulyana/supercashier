@@ -28,7 +28,7 @@
    
    ### c. update_item
    ### Merupakan fungsi untuk mengupdate/ mengubah detail item yang diinputkan.
-   <img width="380" alt="image" src="https://user-images.githubusercontent.com/123846578/216520672-49f666a9-af3f-4e1c-b594-5512295ff48c.png">
+   <img width="458" alt="image" src="https://user-images.githubusercontent.com/123846578/216740291-9bc21339-bf1b-47af-9c66-e20a454e25b0.png">
 
    ### d. show_order
    ### Merupakan fungsi untuk menampilkan daftar pesanan yang sudah diinputkan.
