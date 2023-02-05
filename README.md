@@ -2,7 +2,7 @@
 ## Python Project - Super Cashier - Ayudina Larasanti - Analytics and Data Science
 #### Sistem kasir self-service di supermarket dengan menggunakan bahasa pemrograman Python yang memungkinkan customer yang tidak berada di kota tersebut dapat melakukan pembelian barang.
 ## 1. REQUIREMENTS/ OBJECTIVES
-   #### Membuat sistem kasir self service dengan fiture sebagai berikut:
+   #### Membuat sistem kasir self service dengan feature sebagai berikut:
    #### a. Membuat proses untuk memasukkan ID Transaksi
    #### b. Membuat proses untuk menambahkan barang yang ini dibeli dan detail jumlah dan harganya
    #### c. Membuat proses untuk mengupdate detail barang yang sudah diinputkan sebelumnya jika ada kesalahan input
